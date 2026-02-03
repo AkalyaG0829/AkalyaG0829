@@ -29,6 +29,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat-square&logo=power-bi&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) 
