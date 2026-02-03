@@ -16,15 +16,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Akalya&color=blue)
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Computer Science & Engineering student from India  
-- 💡 Passionate about technology, problem solving, and building impactful solutions  
-- 🌱 Continuously learning new skills in programming, data analysis, and AI  
-- 🛠 Experienced with Python, Java, C, MySQL, Power BI, and web development  
-- ⚡ Thrive in hackathons, collaborative projects, and creative challenges
+- Computer Science & Engineering student from India  
+- Passionate about technology, problem solving, and building impactful solutions  
+- Continuously learning new skills in programming, data analysis, and AI  
+- Experienced with Python, Java, C, MySQL, Power BI, and web development  
+- Thrive in hackathons, collaborative projects, and creative challenges
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
