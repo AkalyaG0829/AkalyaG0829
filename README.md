@@ -14,5 +14,14 @@
   Problem-Solving Enthusiast • Real-world projects • Continuous learner
 </p>
 
----
+![Profile views](https://komarev.com/ghpvc/?username=Akalya&color=blue)
 
+# Aspiring Software Developer | Web & Data Science Learner | AI & Data Analytics Enthusiast | Problem-Solving Enthusiast  
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science & Engineering student from India  
+- 💡 Passionate about technology, problem solving, and building impactful solutions  
+- 🌱 Continuously learning new skills in programming, data analysis, and AI  
+- 🛠 Experienced with Python, Java, C, MySQL, Power BI, and web development  
+- ⚡ Thrive in hackathons, collaborative projects, and creative challenges   
