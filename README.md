@@ -16,12 +16,25 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Akalya&color=blue)
 
-# Aspiring Software Developer | Web & Data Science Learner | AI & Data Analytics Enthusiast | Problem-Solving Enthusiast  
-
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science & Engineering student from India  
 - 💡 Passionate about technology, problem solving, and building impactful solutions  
 - 🌱 Continuously learning new skills in programming, data analysis, and AI  
 - 🛠 Experienced with Python, Java, C, MySQL, Power BI, and web development  
-- ⚡ Thrive in hackathons, collaborative projects, and creative challenges   
+- ⚡ Thrive in hackathons, collaborative projects, and creative challenges
+
+## 🛠️ Languages and Tools
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+
