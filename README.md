@@ -7,15 +7,11 @@
 </h1>
 
 <h3 align="center">
-  Frontend Developer | Aspiring Software Engineer
+  A passionate Computer Science & Engineering student from India  
 </h3>
 
 <p align="center">
-  <b>Engineering clean, scalable & user-friendly web applications</b>
-</p>
-
-<p align="center">
-  Strong fundamentals • Real-world projects • Continuous learner
+  Problem-Solving Enthusiast • Real-world projects • Continuous learner
 </p>
 
 ---
